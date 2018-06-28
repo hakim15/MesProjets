@@ -4,3 +4,6 @@ H:\Etape4\CSharp\ClassLibrary1\Cahier3\bin\Debug\Cahier3.pdb
 H:\Etape4\CSharp\ClassLibrary1\Cahier3\obj\Debug\Cahier3.csprojResolveAssemblyReference.cache
 H:\Etape4\CSharp\ClassLibrary1\Cahier3\obj\Debug\Cahier3.exe
 H:\Etape4\CSharp\ClassLibrary1\Cahier3\obj\Debug\Cahier3.pdb
+C:\Users\1795680\Source\Repos\MesProjets\ClassLibrary1\Cahier3\bin\Debug\Cahier3.exe.config
+C:\Users\1795680\Source\Repos\MesProjets\ClassLibrary1\Cahier3\obj\Debug\Cahier3.exe
+C:\Users\1795680\Source\Repos\MesProjets\ClassLibrary1\Cahier3\obj\Debug\Cahier3.pdb

@@ -12,7 +12,7 @@ namespace ClassLibrary1
 {
     public class Calcul
     {
-        
+        //ff
         public static double Carre(double n)
         {
             return n * n;
