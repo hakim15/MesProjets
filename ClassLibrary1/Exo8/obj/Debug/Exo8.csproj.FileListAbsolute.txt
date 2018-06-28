@@ -1,0 +1,16 @@
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\bin\Debug\Exo8.exe.config
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\bin\Debug\Exo8.exe
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\bin\Debug\Exo8.pdb
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\bin\Debug\structures.dll
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\bin\Debug\structures.pdb
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\obj\Debug\Exo8.csprojResolveAssemblyReference.cache
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\obj\Debug\Exo8.exe
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\Exo8\obj\Debug\Exo8.pdb
+H:\Etape4\CSharp\ClassLibrary1\Exo8\bin\Debug\Exo8.exe.config
+H:\Etape4\CSharp\ClassLibrary1\Exo8\obj\Debug\Exo8.exe
+H:\Etape4\CSharp\ClassLibrary1\Exo8\obj\Debug\Exo8.pdb
+H:\Etape4\CSharp\ClassLibrary1\Exo8\bin\Debug\Exo8.exe
+H:\Etape4\CSharp\ClassLibrary1\Exo8\bin\Debug\Exo8.pdb
+H:\Etape4\CSharp\ClassLibrary1\Exo8\bin\Debug\structures.dll
+H:\Etape4\CSharp\ClassLibrary1\Exo8\bin\Debug\structures.pdb
+H:\Etape4\CSharp\ClassLibrary1\Exo8\obj\Debug\Exo8.csprojResolveAssemblyReference.cache

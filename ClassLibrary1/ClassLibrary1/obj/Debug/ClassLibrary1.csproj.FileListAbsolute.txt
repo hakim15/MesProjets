@@ -1,0 +1,7 @@
+c:\users\hakim mamar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\hakim mamar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\hakim mamar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\hakim mamar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\hakim mamar\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\structures.dll
+C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\structures.pdb
