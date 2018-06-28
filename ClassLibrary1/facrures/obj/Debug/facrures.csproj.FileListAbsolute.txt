@@ -1,6 +1,0 @@
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\obj\Debug\facrures.csprojResolveAssemblyReference.cache
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\bin\Debug\facrures.exe.config
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\bin\Debug\facrures.exe
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\bin\Debug\facrures.pdb
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\obj\Debug\facrures.exe
-C:\Users\Hakim Mamar\Documents\Visual Studio 2015\Projects\ClassLibrary1\facrures\obj\Debug\facrures.pdb
